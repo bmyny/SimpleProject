@@ -7,3 +7,5 @@ Je voudrais qu'il m'indique que j'ai un push en attente
 2eme commit sans push
 
 Ecriture dans le repo distant
+
+TEst de récup de fichier update sur le repo distant
